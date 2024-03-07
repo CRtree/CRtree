@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @CRtree
-- I'm trying to make some interesting apps.
+- 👋 Hi, I’m Samuel
+- 👋 I'm making some interesting apps.
+- App list:
+- 1. Code Changes Summarizer: https://plugins.jetbrains.com/plugin/23820-code-changes-summarizer?noRedirect=true
 
 <!---
 CRtree/CRtree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
