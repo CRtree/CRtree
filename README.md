@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel
-- 👋 I'm making some interesting apps.
+- 👋 I'm making some funny apps.
 - App list:
 - 1. Code Changes Summarizer: https://plugins.jetbrains.com/plugin/23820-code-changes-summarizer
 
