@@ -20,7 +20,6 @@
 
 | Tool | Tech | Description |
 |------|------|-------------|
-| **[📄 create-file-from-template](https://github.com/CRtree/create-file-from-template)** | TypeScript | Scaffold files from customizable templates |
 | **[⚙️ EnvVarTool](https://github.com/CRtree/EnvVarTool)** | Swift | Manage environment variables efficiently |
 | **[🔖 web-bookmarks](https://github.com/CRtree/web-bookmarks)** | JavaScript | Organize and manage your bookmarks |
 | **[✂️ String-remove](https://github.com/CRtree/String-remove)** | Python | String manipulation and cleaning utility |
@@ -45,14 +44,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>📚 Education & Data Science</b></summary>
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </details>
 
